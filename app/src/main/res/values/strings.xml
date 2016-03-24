@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MagicWeather</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="weather_source_yahoo">Yahoo! Weather</string>
+    <string name="widget_4_2">MagicModWeather</string>
+    <string name="weather_category">Weather Settings</string>
+    <string name="weather_use_24h">Use 24-hour Formate</string>
+    <string name="weather_refresh_interval">Update interval</string>
+    <string name="weather_use_metric">Use metric</string>
+
+    <!-- Weather - Update frequency -->
+    <string name="weather_refresh_manual">Manual</string>
+    <string name="weather_refresh_30min">30 minutes</string>
+    <string name="weather_refresh_60min">60 minutes</string>
+    <string name="weather_refresh_2hrs">2 hours</string>
+    <string name="weather_refresh_4hrs">4 hours</string>
+    <string name="weather_refresh_6hrs">6 hours</string>
+    <string name="weather_refresh_8hrs">8 hours</string>
+
+    <!-- Weather - Wind directions -->
+    <string name="weather_N">N</string>
+    <string name="weather_NE">NE</string>
+    <string name="weather_E">E</string>
+    <string name="weather_SE">SE</string>
+    <string name="weather_S">S</string>
+    <string name="weather_SW">SW</string>
+    <string name="weather_W">W</string>
+    <string name="weather_NW">NW</string>
+    
+    <string name="press_again_exit">Press again to exit app</string>
+    <string name="geo_location_fail_info">Can\'t find location, please choose city manual.</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="weather_progress_title">Verifying location</string>
+    <string name="weather_retrieve_location_dialog_title">Cannot retrieve location!</string>
+    <string name="weather_select_location">Select location</string>
+    <string name="weather_custom_location_dialog_title">Enter location</string>
+    <string name="weather_sync_time">Synced at %s</string>
+    <string name="weather_humidity">Humidity %s</string>
+
+    <!-- Weather - Weather codes -->
+    <string name="weather_0">Tornado</string>
+    <string name="weather_1">Tropical Storm</string>
+    <string name="weather_2">Hurricane</string>
+    <string name="weather_3">Severe Thunderstorms</string>
+    <string name="weather_4">Thunderstorms</string>
+    <string name="weather_5">Mixed Rain and Snow</string>
+    <string name="weather_6">Mixed Rain and Sleet</string>
+    <string name="weather_7">Mixed Snow and Sleet</string>
+    <string name="weather_8">Freezing Drizzle</string>
+    <string name="weather_9">Drizzle</string>
+    <string name="weather_10">Freezing Rain</string>
+    <string name="weather_11">Showers</string>
+    <string name="weather_12">Showers</string>
+    <string name="weather_13">Snow Flurries</string>
+    <string name="weather_14">Light Snow Showers</string>
+    <string name="weather_15">Blowing Snow</string>
+    <string name="weather_16">Snow</string>
+    <string name="weather_17">Hail</string>
+    <string name="weather_18">Sleet</string>
+    <string name="weather_19">Dust</string>
+    <string name="weather_20">Foggy</string>
+    <string name="weather_21">Haze</string>
+    <string name="weather_22">Smoky</string>
+    <string name="weather_23">Blustery</string>
+    <string name="weather_24">Windy</string>
+    <string name="weather_25">Cold</string>
+    <string name="weather_26">Cloudy</string>
+    <string name="weather_27">Mostly Cloudy</string> <!-- Night -->
+    <string name="weather_28">Mostly Cloudy</string> <!-- Day -->
+    <string name="weather_29">Partly Cloudy</string> <!-- Night -->
+    <string name="weather_30">Partly Cloudy</string> <!-- Day -->
+    <string name="weather_31">Clear</string> <!-- Night -->
+    <string name="weather_32">Sunny</string>
+    <string name="weather_33">Fair</string> <!-- Night -->
+    <string name="weather_34">Fair</string> <!-- Day -->
+    <string name="weather_35">Mixed Rain and Hail</string>
+    <string name="weather_36">Hot</string>
+    <string name="weather_37">Isolated Thunderstorms</string>
+    <string name="weather_38">Scattered Thunderstorms</string>
+    <string name="weather_39">Scattered Thunderstorms</string>
+    <string name="weather_40">Scattered Showers</string>
+    <string name="weather_41">Heavy Snow</string>
+    <string name="weather_42">Scattered Snow Showers</string>
+    <string name="weather_43">Heavy Snow</string>
+    <string name="weather_44">Partly Cloudy</string>
+    <string name="weather_45">Thundershowers</string>
+    <string name="weather_46">Snow Showers</string>
+    <string name="weather_47">Isolated Thundershowers</string>
+    <string name="weather_3200"></string> <!-- Forecast unavailable -->
+    
+    <string name="sunday">Sunday</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="tursday">Tursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+
+</resources>
